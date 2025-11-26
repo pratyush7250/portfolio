@@ -18,7 +18,7 @@ const Hero = () => {
                 </div>
                 <a href={pdf} download="Pratyush-Mohanty-Resume.pdf">
                     <div className="hero-resume">
-                        <span class="material-icons">download</span>
+                        <span className="material-icons">download</span>
                         My Resume
                     </div>
                 </a>
